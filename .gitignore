@@ -1,0 +1,22 @@
+# Dependencies
+vcpkg/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# User account data
+users.txt
+
+# Visual Studio files
+.vs/
+
+# VS Code configuration
+.vscode/
+**/.vscode/
+
+# Temporary files
+*.tmp
+*.log
